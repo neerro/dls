@@ -1,1 +1,2 @@
-Domain proxy list for sing-box v1
+Domain list source 
+- domain proxy list (dpl) for sing-box v1
